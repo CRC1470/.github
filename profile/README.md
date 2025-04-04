@@ -1,12 +1,13 @@
-## Hi there 👋
+# Welcome to the CRC 1470 - HFpEF GitHub
+### CRC1470 - Multilevel mechanistic characterization of heart failure with preserved ejection fraction.
 
-<!--
+Welcome to the official GitHub organization for CRC1470! We are a collaborative research center dedicated to advancing knowledge, fostering innovation, and promoting open science in our field. Our work unites researchers, developers, and professionals from diverse backgrounds, all striving to push the boundaries of what’s possible.
 
-**Here are some ideas to get you started:**
+## About CRC1470
+In this CRC, we follow an interdisciplinary and multiscale approach (organism - organ - cell - molecule) to characterize Heart Failure with preserved ejection fraction (HFpEF) as a systemic and heterogeneous disorder. Our consortium brings together leading basic, translational and clinical scientists specialized in cardiovascular and multi-organ pathophysiology related to systemic triggers relevant in HFpEF. These scientists are complemented by experts in multi-omics research, computational modeling, and handling of large datasets. Special focus has been placed on maximizing synergy between the groups in terms of methods, cell and animal models, use of harmonized patient data and biosamples, and data integration and analysis.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repository Structure
+In progress
+
+## Get in touch
+https://sfb1470.charite.de/en/
